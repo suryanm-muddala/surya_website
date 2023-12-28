@@ -37,4 +37,8 @@ weight = 2
 
 # About
 
-Suryanarayana Murthy Muddala is working in Computer vision at [Facebook](https://research.fb.com/people/murthy-suryanarayana-murthy-m/) connectivity Lab. His research interests include Computer Vision, Machine Learning, 3D and Plenoptics. He leads Street Address for all group, who works with a unique address (linear, hierarchical and memorable) for each location in the world.
+Suryanarayana Murthy Muddala is working in Telecommunications at [TietoEvry](https://www.tietoevry.com/).
+
+Previously, he worked as a Researcher and Developer in Computer Vision and Machine Learning at Cipherstone Technologies and at Facebook connectivity Lab.  His research interests include Telecommunications, Signal processing, Computer Vision, Machine Learning and 3D.
+
+

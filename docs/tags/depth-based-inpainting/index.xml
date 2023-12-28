@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Depth-Based-Inpainting on Suryanarayana Murthy Muddala</title>
+    <link>https://suryamuddala.github.io/tags/depth-based-inpainting/</link>
+    <description>Recent content in Depth-Based-Inpainting on Suryanarayana Murthy Muddala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Suryanarayana Murthy Muddala</copyright>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://suryamuddala.github.io/tags/depth-based-inpainting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Depth-Based-Inpainting</title>
+      <link>https://suryamuddala.github.io/project/depth-based-inpainting/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/project/depth-based-inpainting/</guid>
+      <description>Disocclusions are one of the major problems in virtual views when rendered from DIBR. Disocclusion are holes occur at depth discontinuities near the object borders. Disocclusions needs to be handled using background data since they are part of it. However, distinguishing foreground-background requires the knowledge of depth. Thus we adopt inapinting methods and incorporated depth and developed methods to handle disocclusion in a plausible manner.
+  Comparision of Depth-based inpainting methods   For more details of the project follow</description>
+    </item>
+    
+  </channel>
+</rss>

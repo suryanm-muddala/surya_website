@@ -218,7 +218,7 @@ custom_css = ["green.css"]
 
 [[menu.main]]
   name = "CV"
-  url = "files/CV-SMM2.pdf"
+  url = "files/CV_SMM.pdf"
   weight = 4
 
 [[menu.main]]

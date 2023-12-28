@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer-vision on Suryanarayana Murthy Muddala</title>
+    <link>https://suryamuddala.github.io/tags/computer-vision/</link>
+    <description>Recent content in Computer-vision on Suryanarayana Murthy Muddala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Suryanarayana Murthy Muddala</copyright>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://suryamuddala.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Depth-Based-Inpainting</title>
+      <link>https://suryamuddala.github.io/project/depth-based-inpainting/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/project/depth-based-inpainting/</guid>
+      <description>Disocclusions are one of the major problems in virtual views when rendered from DIBR. Disocclusion are holes occur at depth discontinuities near the object borders. Disocclusions needs to be handled using background data since they are part of it. However, distinguishing foreground-background requires the knowledge of depth. Thus we adopt inapinting methods and incorporated depth and developed methods to handle disocclusion in a plausible manner.
+  Comparision of Depth-based inpainting methods   For more details of the project follow</description>
+    </item>
+    
+    <item>
+      <title>Free View Rendering from Single V&#43;D using LDI and inpainting</title>
+      <link>https://suryamuddala.github.io/project/freeview-rendering-ldi/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/project/freeview-rendering-ldi/</guid>
+      <description>Three Dimensional Television (3DTV) and Free Viewpoint Television (FTV) are popular technologies for living room environments by providing immersive experience and look around facilities. These technologies required number of view points of data to provide such experience. However, capture and transmission of the required number of views is not a feasible solution. Thus Rendering and Inpainting solutions are provided to generate multiple view.
+  For more details of the project follow</description>
+    </item>
+    
+    <item>
+      <title>Virtual View Synthesis</title>
+      <link>https://suryamuddala.github.io/project/virtual-view-synthesis/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/project/virtual-view-synthesis/</guid>
+      <description>Depth-Image-Based Rendering (DIBR) of virtual views is a fundamental method in three dimensional 3-D video applications to produce different perspectives from texture and depth information. All DIBR methods suffer from artifacts in the resulting images, which are corrected by different post-processing. The proposed method is based on fundamental principles of3D-warping. The novelty lies in how the virtual view sample values are obtained from one-dimensional interpolation, where edges are preserved by introducing specific edge-pixels with information about both foreground and background data.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep-learning on Suryanarayana Murthy Muddala</title>
+    <link>https://suryamuddala.github.io/tags/deep-learning/</link>
+    <description>Recent content in Deep-learning on Suryanarayana Murthy Muddala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Suryanarayana Murthy Muddala</copyright>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://suryamuddala.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep-learning</title>
+      <link>https://suryamuddala.github.io/project/deep-learning/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/project/deep-learning/</guid>
+      <description>According to the United Nations, Four billion people are ‘invisible’ due to lack of an address. Recent initiatives tend to name unknown areas by geocoding, which uses latitude and longitude information. Nevertheless settlements abut roads and such addressing schemes are not coherent with the road topology. Instead, our algorithm starts with extracting roads and junctions from satellite imagery utilizing deep learning. Then, it uniquely labels the regions, roads, and houses using some graph- and proximity-based algorithms.</description>
+    </item>
+    
+  </channel>
+</rss>

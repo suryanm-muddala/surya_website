@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adaptive-Signal Processing on Suryanarayana Murthy Muddala</title>
+    <link>https://suryamuddala.github.io/tags/adaptive-signal-processing/</link>
+    <description>Recent content in Adaptive-Signal Processing on Suryanarayana Murthy Muddala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Suryanarayana Murthy Muddala</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://suryamuddala.github.io/tags/adaptive-signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Active Noise Control in a Radial Fan</title>
+      <link>https://suryamuddala.github.io/project/active-noise-control/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/project/active-noise-control/</guid>
+      <description>Active noise control methods reduce unwanted noise. Moreover, active methods show superiority over passive control methods mainly for low frequency noise reduction. This project aims at investigating the use of an active noise control (ANC) system in ventilation system especially on a radial fan. A variety of methods were introduced to reduce unwanted noise based on the setup of the ventilation ducts. Mainly feed forward and feed back active noise control methods.</description>
+    </item>
+    
+  </channel>
+</rss>

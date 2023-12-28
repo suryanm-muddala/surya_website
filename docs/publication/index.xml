@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Suryanarayana Murthy Muddala</title>
+    <link>https://suryamuddala.github.io/publication/</link>
+    <description>Recent content in Publications on Suryanarayana Murthy Muddala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Suryanarayana Murthy Muddala</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://suryamuddala.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robocodes: Towards Generative Street Addresses from Satellite Imagery</title>
+      <link>https://suryamuddala.github.io/publication/robocodes/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/publication/robocodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual View Synthesis Using Layered Depth Image Generation and Depth-Based Inpainting for Filling Disocclusions and Translucent Disocclusions</title>
+      <link>https://suryamuddala.github.io/publication/virtual-view-synthesis-spatial-ldi/</link>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/publication/virtual-view-synthesis-spatial-ldi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Consistent Depth-Image Based Rendering Using Layered Depth Image and Inpainting</title>
+      <link>https://suryamuddala.github.io/publication/virtual-view-synthesis-temporal-ldi/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/publication/virtual-view-synthesis-temporal-ldi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth-Based Inpainting For Disocclusion Filling</title>
+      <link>https://suryamuddala.github.io/publication/depth-based-inpainting-disocc/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/publication/depth-based-inpainting-disocc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth-Included Curvature Inpainting for Disocclusion Filling in View Synthesis</title>
+      <link>https://suryamuddala.github.io/publication/depth-included-curvature-inpainting/</link>
+      <pubDate>Thu, 05 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/publication/depth-included-curvature-inpainting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disocclusion Handling Using Depth-Based Inpainting</title>
+      <link>https://suryamuddala.github.io/publication/disocclusion-handling-dbi/</link>
+      <pubDate>Thu, 05 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/publication/disocclusion-handling-dbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge-aided virtual view rendering for multiview video-plus-depth</title>
+      <link>https://suryamuddala.github.io/publication/edge-aided-dibr-mvd/</link>
+      <pubDate>Tue, 12 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/publication/edge-aided-dibr-mvd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge-preserving depth-image-based rendering method</title>
+      <link>https://suryamuddala.github.io/publication/edge-preserving-dibr-vd/</link>
+      <pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/publication/edge-preserving-dibr-vd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An initial study on applying active noise control to an insulated box fan used in ventilation system applications</title>
+      <link>https://suryamuddala.github.io/publication/active-noise-control/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://suryamuddala.github.io/publication/active-noise-control/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
